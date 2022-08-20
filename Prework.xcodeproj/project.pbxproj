@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C5E39C0F28AD67EE009A7222 /* SettingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5E39C0E28AD67EE009A7222 /* SettingViewController.swift */; };
 		C5F3B87E28A1E29D00F271C4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5F3B87D28A1E29D00F271C4 /* AppDelegate.swift */; };
 		C5F3B88028A1E29D00F271C4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5F3B87F28A1E29D00F271C4 /* SceneDelegate.swift */; };
 		C5F3B88228A1E29D00F271C4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5F3B88128A1E29D00F271C4 /* ViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		C5E39C0E28AD67EE009A7222 /* SettingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingViewController.swift; sourceTree = "<group>"; };
 		C5F3B87A28A1E29D00F271C4 /* Prework.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Prework.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C5F3B87D28A1E29D00F271C4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C5F3B87F28A1E29D00F271C4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -101,6 +103,7 @@
 			children = (
 				C5F3B87D28A1E29D00F271C4 /* AppDelegate.swift */,
 				C5F3B87F28A1E29D00F271C4 /* SceneDelegate.swift */,
+				C5E39C0E28AD67EE009A7222 /* SettingViewController.swift */,
 				C5F3B88128A1E29D00F271C4 /* ViewController.swift */,
 				C5F3B88328A1E29D00F271C4 /* Main.storyboard */,
 				C5F3B88628A1E2A400F271C4 /* Assets.xcassets */,
@@ -261,6 +264,7 @@
 				C5F3B88228A1E29D00F271C4 /* ViewController.swift in Sources */,
 				C5F3B87E28A1E29D00F271C4 /* AppDelegate.swift in Sources */,
 				C5F3B88028A1E29D00F271C4 /* SceneDelegate.swift in Sources */,
+				C5E39C0F28AD67EE009A7222 /* SettingViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
